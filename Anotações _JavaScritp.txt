@@ -1,0 +1,5 @@
+comando para converter valores para nosso real aula 06;
+n1=154.5
+n1.toFixed(2).replace('.',',') troca ponto por virgula
+n1.tolocaleString('pt-BR','currency',currency:'BRL') OBS:trocar BRL 'USD' dolar
+proxima aula 16
